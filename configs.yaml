@@ -1,0 +1,22 @@
+paths:
+  raw_dir : "data/raw"
+  index_dir : "data/index"
+
+chunking:
+  chunk_size : 1000
+  overlap : 200
+
+retrieval:
+  k_retriever : 6
+
+models:
+  embedding : "nomic-embed-text-v1.5"
+  llm : "llama3.1:8b-instruct-q8_0"
+  temperature : 0.0
+
+web:
+  web_search_k : 3
+
+runtime:
+  max_retries : 5
+  force_rebuild : False
