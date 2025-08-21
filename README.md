@@ -187,7 +187,7 @@ Below are some illustrative examples showing how MultiAgentRAG delivers more acc
 
 Below is a visualization of the agent workflow graph, illustrating how MultiAgentRAG routes queries, retrieves documents, grades context, detects hallucinations, and falls back to web search when needed:
 
-![Agent Workflow Graph](C:/Users/"Jay Jani"/Downloads/langgraph.drawio.png)
+![Agent Workflow Graph](https://raw.githubusercontent.com/JJBuc/RAG_Agent/main/assets/langgraph.png)
 
 This diagram demonstrates the adaptive and modular flow that sets MultiAgentRAG apart from standard RAG pipelines.
 
