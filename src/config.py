@@ -20,10 +20,10 @@ _DEFAULTS = {
     },
     "web": {
         "web_search_k": 3,
+        "tavily_api": "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",
     },
     "runtime": {
         "max_retries": 5,
-        "force_rebuild": False,
     },
 }
 
