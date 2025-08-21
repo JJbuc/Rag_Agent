@@ -1,6 +1,5 @@
 paths:
   raw_dir : "data/raw"
-  index_dir : "data/index"
 
 chunking:
   chunk_size : 1000
@@ -16,9 +15,9 @@ models:
 
 web:
   web_search_k : 3
+  tavily_api : "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"
 
 runtime:
   max_retries : 5
-  force_rebuild : False
 
 ### the main config file 

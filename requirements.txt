@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain-nomic
+nomic[local]
+langchain-ollama
+scikit-learn
+langgraph
+tavily-python
+bs4
+requests
+tiktoken
+pydantic
+typing_extensions
