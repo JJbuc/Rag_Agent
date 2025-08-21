@@ -7,7 +7,7 @@ MultiAgentRAG is a **cutting-edge, modular Retrieval-Augmented Generation (RAG) 
 ## Why MultiAgentRAG?
 
 - **Showcases advanced RAG agent design**: Demonstrates how to combine retrieval, generation, grading, and web search in a single, adaptive workflow.
-- **Plug-and-play for your own knowledge base**: Just drop your `.txt` files into `data/raw/` and the agent adapts—no code changes needed.
+- **Plug-and-play for your own knowledge base**: Just drop your `.txt` files into `data/raw/` and the agent adapts, no code changes needed.
 - **Dynamic and robust**: The agent intelligently routes queries, grades context, and avoids hallucinations, making it suitable for real-world, production-grade applications.
 - **Clear, extensible codebase**: Designed for easy understanding and rapid prototyping in research.
 
@@ -163,7 +163,7 @@ Below are some illustrative examples showing how MultiAgentRAG delivers more acc
 > *(Source: agent_article3.txt)*
 
 **Why is MultiAgentRAG better?**  
-- The pipeline grades and filters context, ensuring the answer is specific, accurate, and grounded in your documents—avoiding vague or generic responses.
+- The pipeline grades and filters context, ensuring the answer is specific, accurate, and grounded in your documents avoiding vague or generic responses.
 
 ---
 
