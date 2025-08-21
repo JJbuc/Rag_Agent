@@ -187,7 +187,7 @@ Below are some illustrative examples showing how MultiAgentRAG delivers more acc
 
 Below is a visualization of the agent workflow graph, illustrating how MultiAgentRAG routes queries, retrieves documents, grades context, detects hallucinations, and falls back to web search when needed:
 
-![Agent Workflow Graph](../Downloads/langgraph.drawio.png)
+![Agent Workflow Graph](C:/Users/"Jay Jani"/Downloads/langgraph.drawio.png)
 
 This diagram demonstrates the adaptive and modular flow that sets MultiAgentRAG apart from standard RAG pipelines.
 
@@ -198,11 +198,3 @@ This diagram demonstrates the adaptive and modular flow that sets MultiAgentRAG 
 This project is inspired by and builds upon the excellent [LangGraph Adaptive RAG tutorial](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_adaptive_rag_local.ipynb) by the LangChain team.
 
 ---
-
-## License
-
-MIT License
-
----
-
-**MultiAgentRAG is a strong demonstration of how to build robust, adaptive, and production-ready RAG agents with local LLMs. Use it as a showcase in interviews or as a foundation for your own advanced AI
